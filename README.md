@@ -56,10 +56,6 @@ A modern, feature-rich text editor built in Java using Swing, designed as a sing
 4. **Autosave**:
    - Modified tabs are autosaved every 60 seconds to `~/.advancednotepad_autosave/`. On startup, you’ll be prompted to recover unsaved changes.
 
-## Screenshots
-
-*Note: Add screenshots of the application (e.g., dark mode, light mode, tab interface) to the repository for better visualization.*
-
 ## Notes
 
 - The application uses a single Java file (`AdvancedNotepad.java`) for simplicity, but it can be refactored into multiple files for larger projects (e.g., separate classes for `GradientButton`, `TabHeader`, etc.).
